@@ -1,6 +1,6 @@
 ## Hi there Zepp Health Developers👋
 
-For app and watchface development, please refer https://docs.zepp.com.
+For app and watchface development, please refer to https://docs.zepp.com.
 
 <!--
 
