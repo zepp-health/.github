@@ -1,6 +1,6 @@
 ## Hi there [Zepp Health](https://www.zepp.com) Developers👋
 
-For information about smart watches and bands, please refer to [Amazfit](https://www.amazfit.com/)
+For information about smart watches and bands, please refer to [Amazfit](https://www.amazfit.com/).
 
 For app and watchface development, please refer to [Developer Docs](https://docs.zepp.com).
 
